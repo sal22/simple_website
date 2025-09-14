@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Kanama Tasuko
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: '田沼 要'
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Kanama
+last_name: Tasuka
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Wu Tsai Institute
+    url: https://wti.yale.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,16 +48,16 @@ profiles:
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
+  - Zen Principles
   - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Meditation
+  - Haypnosis
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: Science (AI Focus)
+    institution:Wu Tsai Institute
+    date_start: 2021-09-01
+    date_end: 2025-09-14
     summary: |
       Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
