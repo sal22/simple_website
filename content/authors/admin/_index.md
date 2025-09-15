@@ -3,7 +3,7 @@
 title: Kanama Tasuko
 
 # Name pronunciation (optional)
-name_pronunciation: '田沼 要'
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Kanama
